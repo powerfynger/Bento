@@ -157,24 +157,24 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'hard-drive',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Hobby',
+					link: 'https://drive.google.com/drive/folders/11dkPEv5xLavVAVYuYCCb8eXO6RgxDXrn',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'University',
+					link: 'https://drive.google.com/drive/folders/1aTUCLLtVzcKSeugjV7mjkFrjvdoAuYfc',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'English',
+					link: 'https://drive.google.com/drive/folders/1ZNBo8NIfrq2NgrDw72f_wXmMX3lbRuDK',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Anime',
+					link: 'https://docs.google.com/spreadsheets/d/1w1FPDJShQlX8ppO1GYbixsB_Vt3_9gl-LpX4S8_r4_k/edit?copiedFromTrash#gid=0',
 				},
 			],
 		},
